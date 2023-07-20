@@ -10,6 +10,7 @@ In this project, a CSV file named “election_data.csv” was provided and we ha
 * The average changes in "Profit/Losses"
 * The greatest increase in profits (date and amount) 
 * The greatest decrease in profits (date and amount)
+
 The results were then exported to a text file named “election_results.txt” using the open() function in write mode ('w').
 # PyPoll Summary
 Similarly, this project was also provided with a CSV file called “election_data.csv. We had to write python script to find the following result:
